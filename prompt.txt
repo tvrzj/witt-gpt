@@ -1,0 +1,4 @@
+Is it possible to meaningfully describe the logical form of language?
+Can elementary propositions be grasped through the logical analysis of language?
+Are there examples of elementary propositions that can be given?
+For which cases of expressions does it not hold that their meaning lies in the way they are used?
