@@ -8,4 +8,4 @@ python download.py
 HF_DATASETS_OFFLINE=1 TRANSFORMERS_OFFLINE=1 python train.py
 HF_DATASETS_OFFLINE=1 TRANSFORMERS_OFFLINE=1 python inference.py
 cd EleutherAI/gpt-neox-20b
-cp -r checkpoints /storage/brno2/home/tvrzj/ # DORESIT !!!!
+cp -r checkpoints /storage/brno2/home/tvrzj/
